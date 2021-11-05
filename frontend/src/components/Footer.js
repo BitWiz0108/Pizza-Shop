@@ -133,7 +133,7 @@ function Footer() {
                 <div className="aa-footer-bottom-area">
                   <p>
                     Designed by{" "}
-                    <a href="https://github.com/AbdulWahab0">Abdul Wahab</a>
+                    <a href="https://github.com/BitWiz0108">BitWiz0108</a>
                   </p>
                   <div className="aa-footer-payment">
                     <span className="fa fa-cc-mastercard" />
