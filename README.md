@@ -18,5 +18,3 @@
   - npm install
   - npm start
 
-Let me know if you have any questions. [Email Abdul Wahab ](mailto:wahab3060h@gmail.com)
-
